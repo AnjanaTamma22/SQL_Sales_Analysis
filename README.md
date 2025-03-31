@@ -1,2 +1,2 @@
-SQL_Sales_Analysis
+SQL_Sales_Analysis - 
 Developed a comprehensive sales analysis system using SQL to extract key insights from pizza orders. The project involved using SELECT statements to retrieve data, JOIN operations to combine related tables, and COUNT and SUM functions to aggregate data for revenue analysis and order statistics. Advanced techniques like GROUP BY and ORDER BY were used to identify trends such as the most common pizza size and the highest-priced pizza. Subqueries and conditional filtering were applied to pinpoint specific sales patterns, helping optimize business decisions.
